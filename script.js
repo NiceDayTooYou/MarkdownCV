@@ -5,9 +5,9 @@ fetch('info.json')
         document.getElementById('resume-title').innerText = personalInfo.name;
         const basicInfoContainer = document.getElementById('resume-basic-info');
         basicInfoContainer.innerHTML = `
-            <div class="basic-info-item">电话：${personalInfo.phone}</div>
-            <div class="basic-info-item">邮箱：${personalInfo.email}</div>
-            <div class="basic-info-item">个人网站：${personalInfo.website}</div>
+            <div class="basic-info-item">思想：${personalInfo.phone}</div>
+            <div class="basic-info-item">信仰：${personalInfo.email}</div>
+            <div class="basic-info-item">价值观：${personalInfo.website}</div>
         `;
 
         // 获取Markdown内容并转换为HTML
