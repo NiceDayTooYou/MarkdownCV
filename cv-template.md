@@ -42,7 +42,7 @@ expectations, all pride, all fear of embarrassment or failure - these things jus
 - Stewart跟他的团队出版了好几期的《Whole Earth Catalog》，然后很自然的，最后出了停刊号。当时是1970年代中期，我正是你们现在这个年龄的时候。在停刊号的封底，有张清晨乡间小路的照片，那种你四处搭便车冒险旅行时会经过的乡间小路。在照片下印了行小字：求知若饥，虚心若愚（Stay Hungry , Stay Foolish）。那是他们亲笔写下的告别讯息，我总是以此自许。
 - 当你们毕业，展开新生活，我也以此祝福你们。求知若饥，虚心若愚（Stay Hungry , Stay Foolish）。非常谢谢大家。——2005年6月于斯坦福大学
 
-# 不同年代，不同领域的三篇演讲，思想、信仰、知识和价值观
+# 不同年代的三篇演讲
 
 “One child, one teacher, one book, one pen can change the world.”
 ——Malala Yousafzai
